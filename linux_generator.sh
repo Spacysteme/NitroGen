@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VALID_CODES_FILE="valid_nitro_codes.txt"
-VALID_CODE_CHANCE=6
+VALID_CODE_CHANCE=1000
 
 # Fonction pour générer un code aléatoire
 generate_code() {
