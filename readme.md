@@ -2,7 +2,6 @@
 
 This project includes three versions of the "Nitro Generator" tool:
 - **Python Version**
-- **Batch Version (for Windows)**
 - **Bash Version (for Linux and macOS)**
 
 ## Python Version
@@ -28,21 +27,6 @@ This project includes three versions of the "Nitro Generator" tool:
 
 ---
 
-## Batch Version (for Windows)
-
-### Requirements:
-- Windows Operating System
-
-### How to run:
-1. Download or clone the repository to your local machine.
-2. Open the folder containing the `windows_generator.bat` file.
-3. Double-click the `windows_generator.bat` file to launch the tool.
-4. Follow the on-screen menu options to interact with the tool.
-
-**Note:** This version works exclusively on Windows. Ensure you're running a modern version of Windows with batch script support.
-
----
-
 ## Bash Version (for Linux and macOS)
 
 ### Requirements:
@@ -52,7 +36,7 @@ This project includes three versions of the "Nitro Generator" tool:
 ### How to run:
 1. Download or clone the repository to your local machine.
 2. Open a terminal and navigate to the project folder.
-3. Ensure the `generator.sh` script is executable. If not, run:
+3. Ensure the `linux_generator.sh` script is executable. If not, run:
 
     ```bash
     chmod +x linux_generator.sh
