@@ -2,6 +2,7 @@
 
 VALID_CODES_FILE="valid_nitro_codes.txt"
 VALID_CODE_CHANCE=1000
+SLEEP_DURATION=0.2
 
 # Fonction pour générer un code aléatoire
 generate_code() {
@@ -81,7 +82,7 @@ start_generator() {
 
         echo "🔍 Codes scanned: $scanned"
         echo "🚀 Leave: ctrl + c"
-        sleep 1
+        sleep $SLEEP_DURATION
     done
 }
 
