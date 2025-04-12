@@ -63,3 +63,5 @@ This project includes three versions of the "Nitro Generator" tool:
 
 ## License:
 This project is a fun, trolling project made for educational purposes. Do not use it for malicious intent.
+
+- https://waves-studio.xyz/
