@@ -49,6 +49,7 @@ echo [INFO] Creator: Spacy131 (spacy.ws)
 echo [INFO] Stop generation: ctrl + c
 echo [››››] Do not leave the software on for too long! Risk of computer self-destruction.
 echo ──────────────────────────────────────────────
+pause
 goto :eof
 
 :: Afficher le menu
