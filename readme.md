@@ -27,6 +27,25 @@ This project includes three versions of the "Nitro Generator" tool:
 
 ---
 
+## Windows Executable Version (.exe)
+
+### **Requirements:**
+- A **Windows** operating system (no Python required)
+
+### **How to run:**
+1. Download the `NitroGen.exe` file from the repository.
+2. **Double-click** to launch it. A command-line window will open.
+3. Follow the on-screen instructions:
+   - Simulated **Node.js installation** and **package downloads** for fun.
+   - Enter how many codes you want to generate.
+   - The tool will create and test random **Discord Nitro gift codes**.
+
+### **Notes:**
+- The `.exe` is a **standalone version** of the Python script, compiled for easy use on Windows.
+- ⚠️ **This is a troll/fake Nitro generator** — all codes are randomly generated and extremely unlikely to be valid.
+
+---
+
 ## Bash Version (for Linux and macOS)
 
 ### Requirements:
