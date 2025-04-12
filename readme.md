@@ -2,7 +2,29 @@
 
 This project includes three versions of the "Nitro Generator" tool:
 - **Python Version**
+- **Windows Executanle Version (.exe)**
 - **Bash Version (for Linux and macOS)**
+
+### Set Up
+
+- Before running any version of the tool, follow these setup steps:
+
+1. Create a folder on your desktop (or anywhere you prefer) named:
+
+    ```text
+    Nitro Gen
+    ```
+2. Move the script you want to use into this folder:
+   - `generator.py` *(for Python users)*
+   - `NitroGen.exe` *(for Windows executable users)*
+   - `linux_generator.sh` *(for Linux/macOS users)*
+3. Open a terminal (or simply double-click the `.exe` file if using Windows).
+4. Follow the steps in the corresponding section below to run the tool:
+   - [Python Version](#python-version)
+   - [Windows Executable Version](#windows-executable-version-exe)
+   - [Bash Version (for Linux and macOS)](#bash-version-for-linux-and-macos)
+
+This setup ensures all generated files (`valid_nitro_codes.txt`) stay organized in one place.
 
 ## Python Version
 
